@@ -1,7 +1,7 @@
 # day32
 Its all about api
 
-Today I created 4 small applications to learn anout Api's
+Today I created 3 small applications to learn anout Api's
 
 # 1  fetching sunrise and sunset api 
 This application fetches the Api from: https://api.sunrise-sunset.org/json?lat={lat}&lng={lng} and view you the timings of Sunrise And Sunset in your latitude and longitude. I f you dont give any input, the default output will show you the sunrise and sunset time of New Delhi
